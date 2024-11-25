@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "locale": "en",
+    "language": "English"
+  },
+  "navigation": {
+    "path": "/",
+    "navbar": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "Download",
+        "url": "/#download"
+      }
+    ]
+  },
+  "pages": {
+    "index": {
+      "title": "Luma Island - Dive into the Epic Adventure of Luma Island",
+      "description": "Go on a epic journey in Luma Island. Build your dream home, master unique professions, and uncover the mysteries of this enchanting world with friends."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Luma Island",
+      "description": "Privacy policy for Luma Island. Learn how we protect your information while you enjoy our cozy farming and adventure game."
+    }
+  },
+  "common": {
+    "playNow": "Play Now",
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+    
+  },
+  "cta": {
+    "title": "Begin Your Epic Adventure Today",
+    "description": "Ready to start your journey on Luma Island? Download now and join a community of adventurers!",
+    "button": "Get Started →"
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "github": "Github",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "languageSwitcher": {
+    "selectLanguage": "Select Language",
+    "currentLanguage": "English"
+  }
+}
