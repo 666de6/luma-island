@@ -13,6 +13,10 @@
         "url": "/"
       },
       {
+        "title": "Blog",
+        "url": "/blogentry/"
+      },
+      {
         "title": "Download",
         "url": "/#download"
       }
@@ -26,6 +30,14 @@
     "privacy": {
       "title": "Privacy Policy | Luma Island",
       "description": "Privacy policy for Luma Island. Learn how we protect your information while you enjoy our cozy farming and adventure game."
+    },
+    "blogentry": {
+      "title": "Luma Island Guide & Blog | Luma Island",
+      "description": "Explore the latest news and updates from Luma Island. Stay informed about the latest events, adventures, and community activities."
+    },
+    "luma-island-professions": {
+      "title": "Luma Island Professions Guide | Luma Island",
+      "description": "Discover the unique professions in Luma Island and their unique features, gameplay mechanics, and what kind of player they're best suited for."
     }
   },
   "common": {

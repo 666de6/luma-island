@@ -140,7 +140,7 @@
   
   {{ content | safe }}
   
-  <section id="download" class="bg-green bg-gradient-to-l from-green to-red">
+  <section id="download" class="bg-green bg-gradient-to-l from-green to-red font-sans">
     <div class="text-center p-8 rounded-lg text-light">
         <h2 class="text-2xl font-bold mb-4">{{ translations.cta.title }}</h2>
         <p class="mb-6">{{ translations.cta.description }}</p>
@@ -157,7 +157,7 @@
       <a href="{{ '/privacy' | localizeUrl(currentLang) }}" class="text-red">
         {{ translations.footer.privacyPolicy }}
       </a>
-      <a href="https://github.com/666de6/luma-island" class="ml-4 text-red">
+      <a href="https://github.com/666de6/luma-island" class="ml-4 text-red" target="_blank">
         {{ translations.footer.github }}
       </a>   
     </p>
