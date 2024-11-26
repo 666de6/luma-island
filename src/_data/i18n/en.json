@@ -17,6 +17,10 @@
         "url": "/blogentry/"
       },
       {
+        "title": "Wiki",
+        "url": "/luma-island-wiki/"
+      },
+      {
         "title": "Download",
         "url": "/#download"
       }
@@ -38,6 +42,10 @@
     "luma-island-professions": {
       "title": "Luma Island Professions Guide | Luma Island",
       "description": "Discover the unique professions in Luma Island and their unique features, gameplay mechanics, and what kind of player they're best suited for."
+    },
+    "luma-island-wiki": {
+      "title": "Luma Island Wiki | Luma Island",
+      "description": "All facts about Luma Island - learn about development background, gameplay mechanics, features, and connect with the community through our fan-made wiki."
     }
   },
   "common": {
@@ -54,7 +62,7 @@
   "cta": {
     "title": "Begin Your Epic Adventure Today",
     "description": "Ready to start your journey on Luma Island? Download now and join a community of adventurers!",
-    "button": "Get Started →"
+    "button": "Download Luma Island →"
   },
   "footer": {
     "copyright": "All rights reserved.",
