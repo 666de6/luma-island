@@ -50,6 +50,14 @@
     "luma-island-wiki": {
       "title": "Luma Island Wiki | Luma Island",
       "description": "All facts about Luma Island - learn about development background, gameplay mechanics, features, and connect with the community through our fan-made wiki."
+    },
+    "luma-island-tools": {
+      "title": "Luma Island Tools Guide | Luma Island",
+      "description": "Learn about the tools in Luma Island and their unique features, gameplay mechanics, and what kind of player they're best suited for."
+    },
+    "luma-island-fishing-locations": {
+      "title": "Luma Island Fishing Locations Guide | Luma Island",
+      "description": "Discover the best fishing locations in Luma Island and their unique features, gameplay mechanics, and what kind of player they're best suited for."
     }
   },
   "common": {
